@@ -6,3 +6,4 @@
 <p><a href="https://github.com/IDEP-network/IDEP.js"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=IDEP-network&repo=IDEP.js&show_owner=true&theme=tokyonight"/></a></p>
 
 ### Hello there 👋
+###### Maybe check out [IDEP network](https://idep.network/) while you're at it?
